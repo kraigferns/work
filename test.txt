@@ -55,3 +55,17 @@ export default BasicButtonExample;
         <Dropdown.Divider />
         <Dropdown.Item href="#/action-4">Separated link</Dropdown.Item>
       </DropdownButton>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <Dropdown className="d-inline mx-2" autoClose="inside">
+        <Dropdown.Toggle id="dropdown-autoclose-inside">
